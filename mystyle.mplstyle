@@ -1,0 +1,11 @@
+# mystyle.mplstyle
+axes.titlesize : 16
+axes.labelsize : 14
+lines.linewidth : 2
+lines.markersize : 8
+xtick.labelsize : 12
+ytick.labelsize : 12
+font.size : 12
+legend.fontsize : 12
+figure.titlesize : 18
+
